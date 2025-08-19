@@ -1,0 +1,36 @@
+.main-container {
+  background-color: #DDE7DD; /* soft light green */
+  border: 2px solid #6B8F71; /* muted border */
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  margin: 20px;
+}
+
+.main-container h2 {
+  color: #2E4D38; /* muted dark green */
+  margin-bottom: 10px;
+}
+
+.main-container p {
+  color: #333; /* dark gray */
+  margin-bottom: 15px;
+}
+
+select {
+  padding: 8px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #6B8F71;
+  background-color: #F5F5F5; /* soft neutral */
+}
+
+ul {
+  list-style-type: circle;
+  padding: 0;
+}
+
+li {
+  color: #2E4D38;
+  font-weight: 500;
+}
